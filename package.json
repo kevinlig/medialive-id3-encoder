@@ -1,0 +1,11 @@
+{
+  "name": "medialive-id3-encoder",
+  "version": "0.0.1",
+  "description": "Encodes strings into ID3 base64 data for ingestion into AWS MediaLive as timed HLS metadata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Li",
+  "license": "UNLICENSED"
+}
