@@ -57,4 +57,4 @@ function writeID3(message) {
     return Buffer.from(buffer).toString('base64');
 }
 
-console.log(writeID3('Triggered at 6:28 PM'));
+module.exports = writeID3;
